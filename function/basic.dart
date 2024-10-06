@@ -12,3 +12,8 @@ add(num1, num2) {
     'The sum is: ${num1 + num2}',
   );
 }
+// code for prime number
+
+
+
+ 
